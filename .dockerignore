@@ -1,0 +1,4 @@
+.git
+composer.lock
+/www/include/vendor
+*.dev.php
